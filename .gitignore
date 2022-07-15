@@ -1,4 +1,7 @@
 # Ignore
+*/**/bin/
+*/**/obj/
+*/**/.vs
 
 # Allow
 !**/*.cs
