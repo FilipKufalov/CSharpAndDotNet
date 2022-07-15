@@ -2,6 +2,10 @@
 */**/bin/
 */**/obj/
 */**/.vs
+**/**/*.csproj
+**/**/.csproj.user
+**/**/.sln
+Chapter02/WpfApp1
 
 # Allow
 !**/*.cs
