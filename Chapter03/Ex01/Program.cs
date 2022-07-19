@@ -21,7 +21,7 @@ namespace Ex01
             int myInt2;
             myInt2 = 4;
 
-            myInt = +myInt2; 
+            myInt = +myInt2;
             Console.WriteLine(myInt);
         }
     }
