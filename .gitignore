@@ -5,7 +5,7 @@
 **/**/*.csproj
 **/**/.csproj.user
 **/**/*.sln
-Chapter02/WpfApp1
+Chapter02/WpfApp1/
 
 # Allow
 !**/*.cs
