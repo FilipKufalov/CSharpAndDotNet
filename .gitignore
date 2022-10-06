@@ -6,6 +6,8 @@
 **/**/.csproj.user
 **/**/*.sln
 Chapter02/WpfApp1/
+Chapter03/SelectionStatements/Properties/
+Chapter03/SelectionStatements/SelectionStatements.csproj.user
 
 # Allow
 !**/*.cs
